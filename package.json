@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-payment-protocol-polis",
+  "name": "bitcore-payment-protocol",
   "version": "1.5.0",
   "description": "Payment Protocol (BIP70 and related) support for bitcore",
   "author": "BitPay <dev@bitpay.com>",
